@@ -1,0 +1,7 @@
+failure_reason_id,failure_reason,failure_category
+1,Insufficient Balance,User
+2,Bank Server Down,Bank
+3,Network Timeout,Network
+4,Wrong UPI PIN,User
+5,Daily Limit Exceeded,User
+6,Technical Decline (Remitter),Bank
